@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+openai>=1.50.0
+qdrant-client>=1.10.0
+pypdf>=5.0.0
+chonkie>=0.2.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
